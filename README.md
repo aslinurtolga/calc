@@ -1,13 +1,12 @@
 # Project : Country Flags Info
 ## Animation of the Website
 
-![image](./flag.gif)
+![image](./calculator.gif)
 
 
 ## Visulation of the Website
 
-![image](./flag.jpg)
-
+![image](./calculator.jpg)
 
 ## Learning Outcomes
 
@@ -16,8 +15,6 @@ At the end of the this project, you will be able to;
 - analyze a problem,
 
 - demonstrate your knowledge of algorithmic design principles,
-
-- get information about countries via a API.
 
 
 ## Project Skeleton 
