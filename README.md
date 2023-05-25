@@ -1,4 +1,4 @@
-# Project : Country Flags Info
+# Project : Calculator
 ## Animation of the Website
 
 ![image](./calculator.gif)
